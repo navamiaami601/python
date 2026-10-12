@@ -1,0 +1,12 @@
+a=int(input("enter a number"))
+b=int(input("enter a number"))
+c=int(input("enter a number"))
+d=int(input("enter a number"))
+e=int(input("enter a number"))
+f=int(input("enter a number"))
+g=int(input("enter a number"))
+h=int(input("enter a number"))
+i=int(input("enter a number"))
+j=int(input("enter a number"))
+sum=a+b+c+d+e+f+g+h+i+j
+print("sum",sum)
